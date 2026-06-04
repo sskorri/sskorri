@@ -12,9 +12,3 @@ I'm skorri<br>I'm a Civil Engineering student specializing in environmental mech
 ![](https://github-readme-stats.shion.dev/api?username=sskorri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sskorri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sskorri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sskorri&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sskorri&limit=5&theme=dark&combine_all_yearly_contributions=true)
