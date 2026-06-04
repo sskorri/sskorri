@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./d82f4908492c12ee3ce7bf2fd67151e4.jpg" alt="Nayuta" style="width: 100%; height: 300px; object-fit: cover; object-position: center;">
+  <img src="./c365b3718ace02362d19d01a976f5cae.jpg" alt="GLT" style="width: 100%; height: 300px; object-fit: cover; object-position: center;">
 </p>
 
 # 💻 Tech Stack:
