@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./d82f4908492c12ee3ce7bf2fd67151e4.jpg" alt="Nayuta" width="400">
+  <img src="./d82f4908492c12ee3ce7bf2fd67151e4.jpg" alt="Nayuta" width="100%">
 </p>
 
 # 💻 Tech Stack:
