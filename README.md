@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-I'm skorri<br>I'm a Civil Engineering student specializing in environmental mechanics & natural disaster hazard engineering.<br>Outside of civil engineering, I focus on:<br>• systems software<br>• performance engineering <br>• security research<br>• Embededed Systems<br>You get the point.
+I'm skorri<br>I'm a Civil Engineering student specializing in environmental mechanics & natural disaster hazard engineering.<br>Outside of civil engineering, I focus on:<br>• Systems software<br>• Performance engineering <br>• Security research<br>• Embededed Systems<br>You get the point.
 
 
 # 💻 Tech Stack:
