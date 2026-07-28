@@ -16,9 +16,9 @@ I'm skorri<br>I focus on:<br>• Systems software<br>• Performance engineering
     <td align="center"><img src="https://img.shields.io/badge/assembly-%236E4C13.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
     <td align="center"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></td>
     <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
     <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
     <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"
     <td></td>
