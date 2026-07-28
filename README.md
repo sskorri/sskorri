@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./kessoku-band-in-the-train-bocchi-the-rock.gif" alt="Claude Connoisseur" style="width: 300%; height:400px; object-fit: cover; object-position: center;">
+  <img src="./kessoku-band-in-the-train-bocchi-the-rock.gif" alt="Claude Connoisseur" style="width: 500%; height:300px; object-fit: cover; object-position: center;">
 </p>
 
 # 💫 About Me:
