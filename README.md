@@ -25,7 +25,8 @@ I'm skorri<br>I focus on:<br>• Systems software<br>• Performance engineering
   </tr>
 </table>
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sskorri&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=sskorri&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sskorri&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sskorri&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sskorri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
